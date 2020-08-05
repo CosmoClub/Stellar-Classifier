@@ -1,0 +1,8 @@
+0 spiral galaxy
+1 elliptical galaxy
+2 irregular galaxy
+3 star
+4 nebula
+5 black hole
+6 planets
+7 moon
